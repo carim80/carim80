@@ -1,31 +1,22 @@
-## Processeur :
-
-    Modèle : Intel Core i5-3427
-    Fréquence : 2,8 Ghz
-
-## Mémoire :
-
-    Taille : 8 GB
-
-## Système d'exploitation :
-
-    Nom : Ubuntu
-    Version : 20.04.3 LTS
-
-## Stockage :
-
+Processeur :
+    Modèle : Intel Core i7-8700
+    Fréquence : 3,2 Ghz
+Mémoire :
+    Taille : 16 GB
+Système d'exploitation :
+    Nom : windows10
+    Version : 10.0.19042 
+Stockage :
     Partition 1 :
-        Nom : /
-        Espace total : 174GB
-        Espace libre : 62,5GB
-        Type : ext4
-    Partition 2 :
-        Nom : /boot
-        Espace total : 737MB
-        Espace libre : 463MB
-        Type : ext4
-
-## Réseau :
-
-    Adresse IP externe : 79.83.0.xxx
-    Adresse IP Locale : 192.168. 0.xxx
+        Nom : toshiba dt01aca100
+        Espace total : 931GB
+        Espace libre : 602GB
+        Type : disque dur fixe
+    Partition 3 :
+        Nom : micron_1100_mtfddav256tbn
+        Espace total : 2377MB
+        Espace libre : 132MB
+        Type : disque dur fixe
+Réseau :
+    Adresse IP externe : 176.159.121.115
+    Adresse IP Locale  :192.168.1.32
