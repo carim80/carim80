@@ -1,0 +1,31 @@
+## Processeur :
+
+    Modèle : Intel Core i5-3427
+    Fréquence : 2,8 Ghz
+
+## Mémoire :
+
+    Taille : 8 GB
+
+## Système d'exploitation :
+
+    Nom : Ubuntu
+    Version : 20.04.3 LTS
+
+## Stockage :
+
+    Partition 1 :
+        Nom : /
+        Espace total : 174GB
+        Espace libre : 62,5GB
+        Type : ext4
+    Partition 2 :
+        Nom : /boot
+        Espace total : 737MB
+        Espace libre : 463MB
+        Type : ext4
+
+## Réseau :
+
+    Adresse IP externe : 79.83.0.xxx
+    Adresse IP Locale : 192.168. 0.xxx
